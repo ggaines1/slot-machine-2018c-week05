@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  /* background-color: #3C19AB; */
+  background-image: url("http://www.appcelerator.com.s3.amazonaws.com/blog/dev/platinoslot/bg.png");
+  background-repeat: repeat;
+  background-position: cover;
+}
+h1 {
+  color: #d63931;
+}
+
+.slot{
+  width: 30%;
+  height: 250px;
+  float: left;
+  margin: 20px 1.5%;
+}
+#startGame {
+  background-color:
+}
+img{
+  height: 300px;
+  width: 100%;
+}
